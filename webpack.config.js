@@ -1,5 +1,6 @@
 var path = require('path');
 module.exports = {
+    //entry: './es6/module/mainImportAs.js',
     entry: './es6/module/main.js',
     output: {
         path: __dirname,

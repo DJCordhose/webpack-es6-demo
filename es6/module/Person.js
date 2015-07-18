@@ -1,5 +1,3 @@
-'use strict';
-
 class Person {
     static get lieblingsName() {
         return 'Olli';
